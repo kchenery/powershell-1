@@ -2,12 +2,14 @@
   "language": "Windows PowerShell",
   "active": false,
   "blurb": "",
+  "blurb": "Task-based command-line shell and scripting language designed especially for system administration.",
   "checklist_issue": 4,
   "exercises": [
     {
       "slug": "hello-world",
       "uuid": "83c215e6-4a4e-4302-8d68-47f367478d2c",
-      "core": false,
+      "core": true,
+      "auto_approve": true,
       "unlocked_by": null,
       "difficulty": 1,
       "topics": [
